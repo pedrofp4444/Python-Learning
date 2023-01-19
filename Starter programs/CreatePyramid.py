@@ -1,3 +1,5 @@
+# Python Program to Create sequencial pyramids
+
 rows = int(input("Enter number of rows: "))
 
 for i in range(rows):

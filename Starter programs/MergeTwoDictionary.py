@@ -1,3 +1,5 @@
+# Python Program to merge two dictionaries
+
 dict_1 = {1: 'a', 2: 'b'}
 dict_2 = {2: 'c', 4: 'd'}
 
